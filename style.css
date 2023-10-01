@@ -618,8 +618,8 @@ video {
   display: none;
 }
 
-.h-40{
-  height: 10rem;
+.h-36{
+  height: 9rem;
 }
 
 .h-\[50\%\]{
@@ -635,20 +635,8 @@ video {
   height: 100%;
 }
 
-.h-32{
-  height: 8rem;
-}
-
-.h-36{
-  height: 9rem;
-}
-
-.w-36{
-  width: 9rem;
-}
-
-.w-40{
-  width: 10rem;
+.w-32{
+  width: 8rem;
 }
 
 .w-\[100\%\]{
@@ -674,10 +662,6 @@ video {
 
 .w-full{
   width: 100%;
-}
-
-.w-32{
-  width: 8rem;
 }
 
 .flex-col{
@@ -817,11 +801,6 @@ video {
 .px-2{
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-}
-
-.px-32{
-  padding-left: 8rem;
-  padding-right: 8rem;
 }
 
 .px-4{
@@ -1079,6 +1058,11 @@ video {
   .md\:px-20{
     padding-left: 5rem;
     padding-right: 5rem;
+  }
+
+  .md\:px-32{
+    padding-left: 8rem;
+    padding-right: 8rem;
   }
 
   .md\:py-20{
